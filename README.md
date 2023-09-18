@@ -4,5 +4,5 @@ It's made with Selenium so it's not guaranteed to work forever (i.e. if css clas
 ## How to use
 - [Install Python](https://www.python.org/downloads/)
 - Write the codes of all the airports you want to consider in the .txt file
-- Run the script
+- Run the script with the py (or python3) command
 - Results will be in results.txt
